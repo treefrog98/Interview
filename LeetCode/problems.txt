@@ -2,3 +2,4 @@ List of problems
 - Array Partition I
 - Reverse String
 - Reverse Words in a String III
+- Single Number
