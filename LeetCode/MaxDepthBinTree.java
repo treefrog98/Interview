@@ -13,11 +13,12 @@ public class MaxDepthBinTree {
 
 
   }
-  public static boolean sameTree(TreeNode p, TreeNode q) {
-     if(p == null && q == null) return true;
-     if(p == null || q == null) return false;
-     if(p.val == q.val)
-         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
-     return false;
+  public static int MaxDepthBinTree(TreeNode root) {
+    if(root == null) {
+      return 0;
+    }
+    else {
+      return ((MaxDepthBinTree(root.left)+1) > (MaxDepthBinTree(root.right)+1)) ? MaxDepthBinTree(root.left)+1 : MaxDepthBinTree(root.right) + 1;
+    }
   }
 }
