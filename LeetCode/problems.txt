@@ -10,3 +10,4 @@ List of problems
 - Majority Element
 - Most Common Word
 - Same Tree
+- Contains Duplicate
