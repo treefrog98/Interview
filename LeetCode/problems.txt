@@ -26,3 +26,4 @@ List of problems
 - Largest Number Atleast Twice
 - House Robber
 - Path Sum
+- Add Binary
