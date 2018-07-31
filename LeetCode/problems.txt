@@ -30,3 +30,4 @@ List of problems
 - Linked List Cycle
 - Is Perfect Square
 - Length of Last Word
+- Implement strStr()
