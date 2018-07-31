@@ -16,3 +16,4 @@ List of problems
 - Reverse String II
 - Binary Tree Paths
 - Happy Number
+- 2nd Minimum Node
