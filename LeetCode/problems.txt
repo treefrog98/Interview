@@ -5,3 +5,4 @@ List of problems
 - Single Number
 - Maximum of depth of a Binary Tree
 - Max Consecutive Ones in a Binary Array
+- Max Area of Island
