@@ -8,3 +8,4 @@ List of problems
 - Max Area of Island
 - Move Zeroes
 - Majority Element
+- Most Common Word
