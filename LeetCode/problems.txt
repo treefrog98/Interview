@@ -15,3 +15,4 @@ List of problems
 - Missing Number
 - Reverse String II
 - Binary Tree Paths
+- Happy Number
