@@ -17,3 +17,4 @@ List of problems
 - Binary Tree Paths
 - Happy Number
 - 2nd Minimum Node
+- Longest Word in Dictionary
