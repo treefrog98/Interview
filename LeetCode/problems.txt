@@ -11,3 +11,4 @@ List of problems
 - Most Common Word
 - Same Tree
 - Contains Duplicate
+- 2 Sum Sorted
