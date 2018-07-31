@@ -14,3 +14,4 @@ List of problems
 - 2 Sum Sorted
 - Missing Number
 - Reverse String II
+- Binary Tree Paths
