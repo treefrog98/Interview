@@ -19,3 +19,4 @@ List of problems
 - 2nd Minimum Node
 - Longest Word in Dictionary
 - Remove Element
+- Pascal's Triangle
