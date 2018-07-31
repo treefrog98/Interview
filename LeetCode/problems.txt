@@ -25,3 +25,4 @@ List of problems
 - Number of 1 Bits
 - Largest Number Atleast Twice
 - House Robber
+- Path Sum
