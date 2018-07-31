@@ -6,7 +6,7 @@ public class TwoSumSorted {
 
 
   }
-  public int[] twoSum(int[] numbers, int target) {
+  public static int[] twoSum(int[] numbers, int target) {
         int [] arr = new int[2];
         // first find the index it is less than
         int leftBound = 0;
