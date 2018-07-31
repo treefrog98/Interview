@@ -7,3 +7,4 @@ List of problems
 - Max Consecutive Ones in a Binary Array
 - Max Area of Island
 - Move Zeroes
+- Majority Element
