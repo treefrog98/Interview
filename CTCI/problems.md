@@ -4,6 +4,7 @@
   - [x] isUnique
   - [x] Check Permutation
   - [x] URLify
+  - [x] is_Palindrome_Permutation
 ## Chapter 2
 ## Chapter 3
 ## Chapter 4
