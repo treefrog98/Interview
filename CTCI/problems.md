@@ -1,9 +1,9 @@
 List of problems
 
 - Chapter 1
-  - isUnique
-  - Check Permutation
-  - URLify
+  - [x] isUnique
+  - [x] Check Permutation
+  - [x] URLify
 - Chapter 2
 - Chapter 3
 - Chapter 4
