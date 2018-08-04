@@ -1,0 +1,33 @@
+#List of problems
+- [x] Array Partition I
+- [x] Reverse String
+- [x] Reverse Words in a String III
+- [x] Single Number
+- [x] Maximum of depth of a Binary Tree
+- [x] Max Consecutive Ones in a Binary Array
+- [x] Max Area of Island
+- [x] Move Zeroes
+- [x] Majority Element
+- [x] Most Common Word
+- [x] Same Tree
+- [x] Contains Duplicate
+- [x] 2 Sum Sorted
+- [x] Missing Number
+- [x] Reverse String II
+- [x] Binary Tree Paths
+- [x] Happy Number
+- [x] 2nd Minimum Node
+- [x] Longest Word in Dictionary
+- [x] Remove Element
+- [x] Pascal's Triangle
+- [x] Power of Two
+- [x] Power of Three
+- [x] Number of 1 Bits
+- [x] Largest Number Atleast Twice
+- [x] ]ouse Robber
+- [x] Path Sum
+- [x] Add Binary
+- [x] Linked List Cycle
+- [x] Is Perfect Square
+- [x] Length of Last Word
+- [x] Implement strStr()
