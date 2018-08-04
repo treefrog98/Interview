@@ -1,4 +1,4 @@
-# List of problems
+# List of Problems
 - [x] Array Partition I
 - [x] Reverse String
 - [x] Reverse Words in a String III
