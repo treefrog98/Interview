@@ -5,6 +5,7 @@
   - [x] Check Permutation
   - [x] URLify
   - [x] is_Palindrome_Permutation
+  - [x] oneEdit
 ## Chapter 2
 ## Chapter 3
 ## Chapter 4
