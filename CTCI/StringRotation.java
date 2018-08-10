@@ -1,10 +1,8 @@
 public class StringRotation{
 
-
 	public static void main(String[] args) {
 
 		System.out.println(isSubstring("hi","ih"));
-
     
 	}
 
@@ -14,6 +12,4 @@ public class StringRotation{
 		}
 		return (a+a).indexOf(b) > -1;
 	}
-
-
 }
