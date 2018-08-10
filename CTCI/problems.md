@@ -9,6 +9,7 @@
   - [x] string_compression
   - [x] rotate
   - [x] Zero Matrix
+  - [x] String Rotation
 ## Chapter 2
 ## Chapter 3
 ## Chapter 4
