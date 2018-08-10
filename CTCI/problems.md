@@ -11,6 +11,7 @@
   - [x] Zero Matrix
   - [x] String Rotation
 ## Chapter 2
+  - [x] Remove Duplicates
 ## Chapter 3
 ## Chapter 4
 ## Chapter 5
