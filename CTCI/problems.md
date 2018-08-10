@@ -7,6 +7,7 @@
   - [x] is_Palindrome_Permutation
   - [x] oneEdit
   - [x] string_compression
+  - [x] rotate
 ## Chapter 2
 ## Chapter 3
 ## Chapter 4
