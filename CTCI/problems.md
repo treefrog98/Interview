@@ -13,6 +13,7 @@
 ## Chapter 2
   - [x] Remove Duplicates
   - [x] getKthToLast
+  - [x] Delete Middle
 ## Chapter 3
 ## Chapter 4
 ## Chapter 5
